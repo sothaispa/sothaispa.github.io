@@ -216,6 +216,9 @@ to represent the company, product, or service to which they refer.**
 @ngx-lite/json-ld
 MIT
 
+@ngx-lite/menus
+MIT
+
 @ngx-lite/nav-drawer
 MIT
 
